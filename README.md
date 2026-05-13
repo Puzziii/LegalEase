@@ -23,7 +23,6 @@ LegalEase lets anyone upload a legal document and instantly:
 ## 🛠️ Tech Stack
 - Frontend: React.js, Vite
 - Backend: FastAPI, Python
-- AI: Supervity AI, Google Gemini
 - Deployment: Vercel
 
 ## 👥 Target Users

@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-genai.configure(api_key=os.getenv("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"))
+genai.configure(api_key=os.getenv("GROK_API_KEY"))
 
 app = FastAPI()
 

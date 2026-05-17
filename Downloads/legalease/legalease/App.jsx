@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 
-const API = "http://localhost:8000";
+const API = "http://localhost:5175";
 
 const LANGUAGES = ["Hindi", "Tamil", "Telugu", "Kannada", "Bengali", "Marathi", "English"];
 

@@ -1,4 +1,10 @@
 # ⚖️ LegalEase
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AI](https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge)
+
 ### Legal documents are written for lawyers. We built this for everyone else.
 
 ## 🎯 Problem

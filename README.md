@@ -36,9 +36,3 @@ LegalEase lets anyone upload a legal document and instantly:
 - Families signing rental agreements
 - Workers signing employment contracts
 - Anyone who can't afford a lawyer
-
-## 💰 Business Model
-B2B — Banks and NBFCs pay us to explain loan documents to their customers before signing.
-
-## 🏆 Impact
-Making legal literacy accessible to 1 billion Indians.

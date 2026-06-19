@@ -25,6 +25,11 @@ LegalEase lets anyone upload a legal document and instantly:
 - 🔊 Text-to-speech in regional languages
 - 🤖 AI Processing powered by Supervity AI Agent
 - 🧠 Document Analysis via Gemini Vision API
+## 👥 Target Users
+- Students signing college bonds
+- Families signing rental agreements
+- Workers signing employment contracts
+- Anyone who can't afford a lawyer.
 
 ## 🛠️ Tech Stack
 - Frontend: React.js, Vite

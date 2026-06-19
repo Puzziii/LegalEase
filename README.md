@@ -31,8 +31,3 @@ LegalEase lets anyone upload a legal document and instantly:
 - Backend: FastAPI, Python
 - Deployment: Vercel
 
-## 👥 Target Users
-- Students signing college bonds
-- Families signing rental agreements
-- Workers signing employment contracts
-- Anyone who can't afford a lawyer.
